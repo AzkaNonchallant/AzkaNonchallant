@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Making Website,Game also Love making charts<br>📚 I'm currently learning Docker and Django<br>🎯 Goals: Financial Freedom<br>🎈 And ... i Usually Paint 🖌and Sometimes play♟ chess online</h4>
+<h4 align="left">✨ Making Website,Game also Love making charts<br>📚 I'm currently learning Golang and Django<br>🎯 Goals: Financial Freedom<br>🎈 And ... i Usually Paint 🖌and Sometimes play♟ chess online</h4>
 
 ###
 
