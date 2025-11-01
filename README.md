@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Azka Aydiirrafif Syah im a BackEnd and App Developer🎨<br><br>About Me👌<br><br>✨ Making Website,App also Love making Games 📚 I'm currently learning Golang and Flutter🎈 <br>And ... i Usually Paint 🖌and Sometimes play♟ chess online</p>
+<p align="left">My name is Azka Aydirrafif Syah im a BackEnd and App Developer🎨<br><br>About Me👌<br><br>✨ Making Website,App also Love making Games 📚 I'm currently learning Golang and Flutter🎈 <br>And ... i Usually Paint 🖌and Sometimes play♟ chess online</p>
 
 ###
 
