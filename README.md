@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Azka Aydirrafif Syah ,im a BackEnd and App Developer🎨<br><br>About Me👌<br><br>✨ Making Website,App also Love making Games 📚 I'm currently learning Golang and Flutter🎈 <br>And ... i Usually Paint 🖌and Sometimes play♟ chess online</p>
+<p align="left">My name is Azka Aydiirrafif Syah im a BackEnd and App Developer🎨<br><br>About Me👌<br><br>✨ Making Website,App also Love making Games 📚 I'm currently learning Golang and Flutter🎈 <br>And ... i Usually Paint 🖌and Sometimes play♟ chess online</p>
 
 ###
 
@@ -73,8 +73,8 @@
 ###
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AzkaNonchallant&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2&cache_seconds=60" height="150" alt="languages graph"  />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AzkaNonchallant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AzkaNonchallant&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
