@@ -73,8 +73,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AzkaNonchallant&layout=compact&theme=dracula&cache_seconds=1000" height="150" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AzkaNonchallant&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=1000" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AzkaNonchallant&layout=compact&theme=dracula&cache_seconds=300" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AzkaNonchallant&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=300" height="150" alt="GitHub Stats" />
 </div>
 
 ###
