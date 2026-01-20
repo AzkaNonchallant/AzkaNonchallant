@@ -96,7 +96,7 @@
 </p>
 
 
-<h2 align="left">See Ya✨</h2>
+<h2 align="left">See Ya✨:</h2>
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhxM2VjYmllODB6YWdoeXdueTJyMW4wbnduMmoybXlvMnFhMjFhOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s10xE2pqXO9ntqjpAC/giphy.gif"  />
 </div>
