@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hi Im a Junior Software Engineering🙌</p>
+<p align="center">Hi Im a Junior Software Engineering🙌</p>
 
 ###
 
