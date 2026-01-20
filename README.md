@@ -89,8 +89,11 @@
 <h2 align="left">🔉Music:</h2>
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gmarqgmb2ank43nbacx3dnraty)
-
+<p align="center">
+  <a href="https://open.spotify.com/user/31gmarqgmb2ank43nbacx3dnraty">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gmarqgmb2ank43nbacx3dnraty&count=5&width=500&unique=true" width="500"/>
+  </a>
+</p>
 
 
 <h2 align="left">See Ya✨</h2>
